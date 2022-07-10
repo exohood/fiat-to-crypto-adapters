@@ -1,5 +1,5 @@
 {
-  "name": "@exohood/moonpay-adapter",
+  "name": "@exohood/moonpay",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/exohood/exohood-fiat-to-crypto-adapters.git"
